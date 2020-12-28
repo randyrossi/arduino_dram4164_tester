@@ -30,4 +30,4 @@ If at any time there was an error, it will show solid RED.
 
 Status messages are printed to serial but is not necessary for operation.
 
-I make no guarantees for this program.  I have used it on 120ns, 150ns and 200ns 4164 DRAM and it seems to work for me.  Use at your own risk.
+I make no guarantees for this program.  It does not test DRAM refresh, only store/load matches expected values.  I have used it on 120ns, 150ns and 200ns 4164 DRAM and it seems to work for me.  Use at your own risk.
