@@ -22,6 +22,8 @@ It runs through 6 tests:
 5. ALTERNATING PATTERN 1
 6. ALTERNATING PATTERN 2 
 
+The LEDs will alternate RED/GREEN while a test is running. This is normal.
+
 After each test, it blinks GREEN as many times as the test # above.
 If all tests pass, it will slow blink GREEN until shutdown.
 If at any time there was an error, it will show solid RED.
